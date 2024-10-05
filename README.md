@@ -1,4 +1,4 @@
-[![header](./banner.png)](https://aar.one)
+![Alt text](./solar-eclipse-hd-4k-space-585bmk4grpijoamp.jpeg)
 
 # Hi there! I'm Aastha 👋
 
