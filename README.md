@@ -1,92 +1,89 @@
 ![Alt text](./solar-eclipse-hd-4k-space-585bmk4grpijoamp.jpeg)
 
-# Hi there! I'm Aastha 👋
-
+# Hi there! I'm Aastha Khatgarh 👋
 
 <div class="github-introduction">
 
-I'm a **Web Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
+I'm an **AI Enthusiast** and **Data Explorer** with a passion for solving complex problems using cutting-edge technologies like **Machine Learning** and **Natural Language Processing**. With a strong foundation in both backend and cloud services, I enjoy creating solutions that are **efficient**, **scalable**, and **impactful**. 
 
-Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
+Currently, I am focused on building systems that automate processes, such as automating data extraction for the **Global Poverty Research Lab**, saving countless hours of manual work and accelerating research outcomes.
+
+In addition to this, I am diving deeper into the world of **DevOps**, focusing on streamlining workflows and improving deployment efficiency using technologies like **AWS Lambda**, **Docker**, and **CI/CD Pipelines**.
 
 </div>
 
-- 💼 Interested in working together? Reach out to me via <a href="mailto:code@aar.one">email.</a>
-- 💬 Got a question or just curious about something? Feel free to ask!
+- 💼 Interested in collaborating? Reach out to me via <a href="mailto:khatgarh.aastha@gmail.com">email.</a>
+- 💬 Got a question or curious about AI and Machine Learning? Feel free to ask!
 
 <div class="badges-intro">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 </div>
 
 ## 🌟 Featured Projects
 
-- **[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme** is a set of configuration files designed to give Windows an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, providing a unique and cohesive look that enhances the user experience. In addition to the visual enhancements, I’ve also integrated several Linux-like functionalities into Windows, making the operating system more powerful and customizable for advanced users. Furthermore, I am working on custom glyphs to enhance the [Windows Terminal](https://github.com/microsoft/terminal) experience, making it more visually appealing and user-friendly.
+### **[GPRL Data Entry Automation](#)** 📝:  
+**Technologies:** Python, GPT-4, Llama 3, AWS Lambda, S3, Docker, MongoDB, GitHub Actions
 
-- I am working on a comprehensive **PowerShell profile** that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
+- Automated data extraction from research publications, reducing manual processing times by 60%.
+- Implemented **Live Service** for real-time data processing and **Batch Processing** using **AWS Lambda** for high scalability and efficiency.
+- Integrated **CI/CD pipelines** with **GitHub Actions** for seamless deployment, reducing downtime and ensuring the latest changes are automatically reflected.
 
-## 📈 My GitHub stats
+---
+
+### **[Expert System](https://github.com/khatgarhaastha/Expert_System)** 🤖:  
+**Technologies:** Python, BERT, RAG, Docker, MongoDB
+
+- Developed a conversational system that dynamically selects the best database for each interaction using **BERT** and **RAG**, achieving a 98% accuracy rate.
+
+---
+
+### **[Yelp Vision Classifier](https://github.com/khatgarhaastha/Yelp_Vision_Classifier)** 📸:  
+**Technologies:** PyTorch, CNN, VGG16, ResNet18
+
+- Built an image classification model using **PyTorch**, achieving a 92% test accuracy on Yelp's image dataset.
+
+---
+
+### **[Sentiment Analysis with BERT](https://github.com/khatgarhaastha/Sentiment_analysis_using_BERT)** 💬:  
+**Technologies:** PyTorch, BERT, NLP
+
+- Created a sentiment analysis pipeline with **BERT**, processing airline reviews with over 90% precision and recall.
+
+---
+
+## 📈 My GitHub Stats
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=khatgarhaastha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Aastha's GitHub Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatgarhaastha&theme=tokyonight&hide_border=true" alt="Aastha's GitHub Streak" height="165">
   </p>
 </div>
 
-## 📃 I love documentation
+---
 
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
+## 🌸 More About Myself
 
-In addition to my love for documentation, *I'm currently working on a custom Obsidian theme* as part of my **Violet Void theme** series. This theme features rich, deep purple colors with transparency effects, providing a sleek and modern look. I'm already using it myself, and it looks dope! I plan to release this theme soon so others can enjoy it as well.
+I’m someone who’s always eager to learn and grow, both personally and professionally. I enjoy the challenge of learning new technologies and applying them in innovative ways to solve real-world problems. When I'm not immersed in the world of AI and data, you can find me spending time on my hobbies—**painting** and **reading**—which allow me to unwind and spark my creativity.  
 
-Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
+- 🎯 **Driven by impact**: I aim to use AI to make a real difference in the world, whether by helping to streamline research for poverty alleviation or building smart systems that improve lives.
+  
+- 🌍 **Passion for exploring**: I love traveling and understanding different cultures, and I'm always on the lookout for new perspectives and experiences.
 
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
-3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
-
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-### <p align="center">⚙️ My development environment </p>
-
-> I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
-
-#### 🖥️ Windows PowerUser
-
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
-
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  </td>
-  <td valign="top" width="50%">
-
-#### 🐧 Linux Enthusiast
-
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
-
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-  </td>
-  </tr>
-  </table>
-</div>
+- 📚 **Lifelong learner**: Whether it’s reading up on the latest tech trends or learning a new skill, I’m always hungry for knowledge. I believe there’s always something new to learn!
 
 ---
+
+### 📬 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aastha-khatgarh)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/khatgarhaastha)
+
+---
+
+👩‍💻 Thanks for stopping by! Let’s build something amazing together! 💡
+
+---
+
