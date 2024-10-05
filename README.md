@@ -54,17 +54,6 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ---
 
-## 📈 My GitHub Stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khatgarhaastha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Aastha's GitHub Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatgarhaastha&theme=tokyonight&hide_border=true" alt="Aastha's GitHub Streak" height="165">
-  </p>
-</div>
-
----
-
 ## 🌸 More About Myself
 
 I’m someone who’s always eager to learn and grow, both personally and professionally. I enjoy the challenge of learning new technologies and applying them in innovative ways to solve real-world problems. When I'm not immersed in the world of AI and data, you can find me spending time on my hobbies—**painting** and **reading**—which allow me to unwind and spark my creativity.  
