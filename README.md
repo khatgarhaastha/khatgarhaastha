@@ -1,4 +1,4 @@
-![Alt text](./angryprogrammergirl.jpeg)
+![Alt text](./fairyland-canyon-1632749_1280.jpg)
 
 # Hi there! I'm Aastha Khatgarh 👋
 
