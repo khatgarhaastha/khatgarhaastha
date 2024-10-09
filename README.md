@@ -1,4 +1,4 @@
-![Alt text](./solar-eclipse-hd-4k-space-585bmk4grpijoamp.jpeg)
+![Alt text](./angryprogrammergirl.jpeg)
 
 # Hi there! I'm Aastha Khatgarh 👋
 
