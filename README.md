@@ -33,6 +33,15 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ---
 
+### **[mPLUG Implementation for Cross-Modal Image and Text Understanding](#)** 📝:  
+**Technologies:** PyTorch, BERT-base, ResNet, and Vision Transformer (ViT)
+
+- Developed and implemented mPLUG model integrating Cross-Modal Attention to enhance text embeddings using image embeddings.
+- Compared performance across Transformer (ResNet + BERT) and Vision Transformer (ViT) base models, achieving a 27% performance improvement with mPLUG.
+- Utilized PyTorch, BERT-base, ResNet, and Vision Transformer (ViT) for cross-modal understanding and attention mechanism design.
+
+---
+
 ### **[Expert System](https://github.com/khatgarhaastha/Expert_System)** 🤖:  
 **Technologies:** Python, BERT, RAG, Docker, MongoDB
 
