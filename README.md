@@ -24,7 +24,7 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ## 🌟 Featured Projects
 
-### **[GPRL Data Entry Automation](#)**(https://github.com/NU-MSAI-Practicum/data_entry) 📝:  
+### **[GPRL Data Entry Automation](https://github.com/NU-MSAI-Practicum/data_entry)(#)** 📝:  
 **Technologies:** Python, GPT-4, Llama 3, AWS Lambda, S3, Docker, MongoDB, GitHub Actions
 
 - Automated data extraction from research publications, reducing manual processing times by 60%.
