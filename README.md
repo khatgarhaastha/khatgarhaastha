@@ -24,7 +24,7 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ## 🌟 Featured Projects
 
-### **[GPRL Data Entry Automation](#)** 📝:  
+### **[GPRL Data Entry Automation](#)**(https://github.com/NU-MSAI-Practicum/data_entry) 📝:  
 **Technologies:** Python, GPT-4, Llama 3, AWS Lambda, S3, Docker, MongoDB, GitHub Actions
 
 - Automated data extraction from research publications, reducing manual processing times by 60%.
@@ -33,7 +33,7 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ---
 
-### **[RedditModHelper](#)** 📝:  
+### **[RedditModHelper](#)**(https://github.com/khatgarhaastha/RedditModHelper) 📝:  
 **Technologies:** Python, Streamlit, PRAW, Milvus, Ollama
 
 - Developed AI powered Moderator Dashboard to Detect Community Guideline violations in Subreddit Posts using Streamlit frontend and Ollama backend.
@@ -42,7 +42,7 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ---
 
-### **[mPLUG Implementation for Cross-Modal Image and Text Understanding](#)** 📝:  
+### **[mPLUG Implementation for Cross-Modal Image and Text Understanding](#)**(https://github.com/khatgarhaastha/Image_captioning) 📝:  
 **Technologies:** PyTorch, BERT-base, ResNet, and Vision Transformer (ViT)
 
 - Developed and implemented mPLUG model integrating Cross-Modal Attention to enhance text embeddings using image embeddings.
@@ -51,14 +51,14 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ---
 
-### **[Yelp Vision Classifier](https://github.com/khatgarhaastha/Yelp_Vision_Classifier)** 📸:  
+### **[Yelp Vision Classifier](https://github.com/khatgarhaastha/Yelp_Vision_Classifier)**(https://github.com/khatgarhaastha/Yelp_image_classifier) 📸:  
 **Technologies:** PyTorch, CNN, VGG16, ResNet18
 
 - Built an image classification model using **PyTorch**, achieving a 92% test accuracy on Yelp's image dataset.
 
 ---
 
-### **[Sentiment Analysis with BERT](https://github.com/khatgarhaastha/Sentiment_analysis_using_BERT)** 💬:  
+### **[Sentiment Analysis with BERT](https://github.com/khatgarhaastha/Sentiment_analysis_using_BERT)**(https://github.com/khatgarhaastha/Sentiment_analysis_using_BERT) 💬:  
 **Technologies:** PyTorch, BERT, NLP
 
 - Created a sentiment analysis pipeline with **BERT**, processing airline reviews with over 90% precision and recall.
