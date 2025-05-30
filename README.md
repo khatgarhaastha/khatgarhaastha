@@ -13,6 +13,6 @@ In addition to this, I am diving deeper into the world of **DevOps**, focusing o
 
 ### 📬 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aastha-khatgarh)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/khatgarhaastha)
+
 
 
